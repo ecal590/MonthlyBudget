@@ -4,3 +4,7 @@ Progress bar
 Over spending
 Income - interviews
 Final report: highest spending
+
+
+Technical Thangz:
+1. Login
